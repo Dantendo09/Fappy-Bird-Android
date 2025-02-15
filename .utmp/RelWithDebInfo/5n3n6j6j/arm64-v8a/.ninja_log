@@ -1,0 +1,23 @@
+# ninja log v5
+253	11507	7613171875702872	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	3cc71c8665119a26
+9812	18810	7613171971840006	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	291016e59c651693
+428	9635	7613171874310406	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	88bc7db57f0b9dab
+76	12127	7613171894199486	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	694751efa7e736fe
+32	11871	7613171878483386	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bd83bd5063c49bd7
+656	12271	7613171895498606	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f445cd1411affccb
+351	12855	7613171912608685	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ff35348b5c5e8f6e
+11873	14744	7613171930679893	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1370a4009bc47e42
+14746	19026	7613171981042674	C:/Users/Daniel/Fappy Bird Android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5n3n6j6j/obj/arm64-v8a/libswappywrapper.so	c1fed0a5b41a16bd
+11515	18965	7613171978736192	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c1a5f462c6bafafe
+18980	19849	7613171989251535	C:/Users/Daniel/Fappy Bird Android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5n3n6j6j/obj/arm64-v8a/libgame.so	79673ed425d6003b
+24	3239	7613185604728051	GameActivity/CMakeFiles/game.dir/UGAEntry.cpp.o	bd83bd5063c49bd7
+189	4115	7613185613175546	GameActivity/CMakeFiles/game.dir/UGAInputMotionEvent.cpp.o	c1a5f462c6bafafe
+55	4741	7613185614062357	GameActivity/CMakeFiles/game.dir/UGAConfiguration.cpp.o	3cc71c8665119a26
+101	4904	7613185619548559	GameActivity/CMakeFiles/game.dir/UGADebug.cpp.o	694751efa7e736fe
+241	5397	7613185627734219	GameActivity/CMakeFiles/game.dir/UGAInput.cpp.o	f445cd1411affccb
+140	5490	7613185627744227	GameActivity/CMakeFiles/game.dir/UGAApplication.cpp.o	ff35348b5c5e8f6e
+4755	5541	7613185629585196	FramePacing/CMakeFiles/swappywrapper.dir/UnitySwappyWrapper.cpp.o	1370a4009bc47e42
+5542	6063	7613185634372714	C:/Users/Daniel/Fappy Bird Android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5n3n6j6j/obj/arm64-v8a/libswappywrapper.so	c1fed0a5b41a16bd
+3246	6993	7613185642891225	GameActivity/CMakeFiles/game.dir/UGASoftKeyboard.cpp.o	291016e59c651693
+4116	7721	7613185651104208	GameActivity/CMakeFiles/game.dir/UGAInputKeyEvent.cpp.o	88bc7db57f0b9dab
+7722	8168	7613185655662024	C:/Users/Daniel/Fappy Bird Android/Library/Bee/Android/Prj/IL2CPP/Gradle/unityLibrary/build/intermediates/cxx/RelWithDebInfo/5n3n6j6j/obj/arm64-v8a/libgame.so	79673ed425d6003b
